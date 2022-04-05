@@ -67,6 +67,22 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
 ![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebar4.png)
 
+## Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/8.footer.png)
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/8.footer2.png)
+
+## Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/9.element_maincontent1.png)
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/9.element_maincontent2.png)
+
+
+
 
 
 
