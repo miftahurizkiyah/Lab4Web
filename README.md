@@ -52,6 +52,16 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 
 ![Output](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/6.heropanel3.png)
 
+## Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebar.png)
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebarcss2.png)
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebarcss.png)
+
+![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebar4.png)
 
 
 
