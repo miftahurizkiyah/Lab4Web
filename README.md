@@ -57,7 +57,11 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
 ![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebar.png)
 
+## Membuat Sidebar Widget
+
 ![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebarcss2.png)
+
+## Kemudian kita tambahkan CSS
 
 ![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/7.sidebarcss.png)
 
