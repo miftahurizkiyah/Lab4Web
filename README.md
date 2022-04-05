@@ -43,6 +43,15 @@ Kemudian selanjutnya mengatur navigasi.
 
 ![Output](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/5.5membuat_navigasi.PNG)
 
+## Membuat Hero Panel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![Input](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/6.heropanel1.png)
+
+![Input](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/6.heropanel2.png)
+
+![Output](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/6.heropanel3.png)
+
 
 
 
