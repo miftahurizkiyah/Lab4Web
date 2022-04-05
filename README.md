@@ -32,6 +32,12 @@ Selanjutnya Kita akan membuat layout sederhana,
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
+![Input](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/4.Layout_sederhana.PNG)
+
+![Output](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/4.4.Layout_sederhana.PNG)
+
+
+
 
 
 
