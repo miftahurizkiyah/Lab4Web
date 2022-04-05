@@ -9,7 +9,7 @@ Tugas : Pemograman Web (Pertemuan ke-5 - Praktikum ke-4) <br>
 Langkah-Langkah Praktikum ke-4 ini membuat box & Layout sederhana
 
 kita menggunakan visual studio code dan google chrome.<br>
-## 1. Membuat Box
+## Membuat Box
 
 ![input awal](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/1.PNG)
 <br>
@@ -36,6 +36,12 @@ Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
 ![Output](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/4.4.Layout_sederhana.PNG)
 
+## Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
+
+![Input](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/5.Membuat_navigasi.PNG)
+
+![Output](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/5.5membuat_navigasi.PNG)
 
 
 
