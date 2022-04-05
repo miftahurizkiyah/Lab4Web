@@ -88,6 +88,16 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 
 ![Pict](https://github.com/miftahurizkiyah/Lab4Web/blob/main/Pict/10.tambah_content_artikel2.png)
 
+=================================================================================================================================================
+
+## Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+[file menu about HTML](layout/about.html),[file menu about CSS](layout/style_about.css)
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+[file menu kontak HTML](layout/kontak.html),[file menu kontak CSS](layout/style_kontak.css)
 
 
-
+## Thank You
+Miftahu Rizkiyah
